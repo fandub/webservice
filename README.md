@@ -3,9 +3,9 @@ webservice
 
 Integrantes:
 ============
-Jazmin Martinez
-Adrian Gutierrez
-Paula Lineros
+Jazmin Martinez T.
+Adrian Gutierrez G.
+Paula Lineros E.
 
 Tarea 08:
 =========
